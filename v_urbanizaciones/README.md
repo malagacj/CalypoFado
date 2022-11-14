@@ -11,4 +11,6 @@ Hay una gran lista de motivos por los cuales los vecinos de calypo fado estamos 
 Página del Ministerio de Sanidad, consumo y bienestar social.
 Siguiendo el enlace a la página de [SINAC] se puede obtener información referente a todas las distribuidoras de agua dentro del territorio nacional.
 
+Haciendo click en "Acceso Ciudadano" -> "Información de un Abastecimiento" se puede proceder a buscar la info por municipio
+
 [SINAC]: https://sinac.sanidad.gob.es/SinacV2/index.html
