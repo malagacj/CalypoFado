@@ -1,7 +1,7 @@
 # AUTOBUS 535
 
 # Resumen
-Un transport público fiable y de calidad es esencial para que nuestra urbanización pueda desarrollarse como debería en el siglo XXI.
+Un transporte público fiable y de calidad es esencial para que nuestra urbanización pueda desarrollarse como debería en el siglo XXI.
 
 ## Puntos negativos del sistema actual
 * El autobus no cumple con los horarios establecidos. Nadie puede depender de el para llevar a cabo nuestras obligaciones fuera de la urbanización
