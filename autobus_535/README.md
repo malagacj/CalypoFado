@@ -9,7 +9,7 @@ Un transporte público fiable y de calidad es esencial para que nuestra urbaniza
 
 ## Propuestas
 ### Mejorar la eficiencia en hora punta
-- Mejorar acceso a rotonda de Móstoles. Podéis seguir este [enlace][change.org rotonda mostoles] al change.org de la propuesta
+Mejorar acceso a rotonda de Móstoles. Podéis seguir este [enlace][change.org rotonda mostoles] al change.org de la propuesta
 
 ### Autobus lanzadera
 Quizás a algún vecino le interese llevar a cabo estos servicios, si fuera legal hacerlo por supuesto
