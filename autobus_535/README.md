@@ -11,4 +11,7 @@ Un transport público fiable y de calidad es esencial para que nuestra urbanizac
 ### Mejorar la eficiencia en hora punta
 * Mejorar acceso a rotonda de Móstoles. Podéis seguir este [enlace][change.org rotonda mostoles] al change.org de la propuesta
 
+## Observaciones
+* ¿Tiene el servio actual (autobús 535) una concesión de algún tipo? Y si fuese así, ¿Cuales son sus obligaciones?
+
 [change.org rotonda mostoles]: https://www.change.org/p/fomento-y-alcaldesas-de-arroyomolinos-y-de-m%C3%B3stoles-fin-de-los-atascos-entrada-mostoles-arroyomolinos-por-via-acceso-con-rotonda-av-portugal?recruiter=934074357&utm_source=share_petition&utm_campaign=petition_show&utm_medium=whatsapp&recruited_by_id=15dab5c0-27f0-11e9-b526-e576c68f3559
