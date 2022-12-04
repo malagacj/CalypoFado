@@ -13,8 +13,9 @@ Siguiendo el enlace a la página de [SINAC] se puede obtener información refere
 
 Haciendo click en "Acceso Ciudadano" -> "Información de un Abastecimiento" se puede proceder a buscar la info por municipio
 
+[SINAC]: https://sinac.sanidad.gob.es/SinacV2/index.html
+
 ## Reuniones
 ### 04/12/2022
 En la reunión realizada se ha proporcionado el siguiente documento:
 - [Acta de Protocolización Autorizada](https://github.com/malagacj/CalypoFado/raw/master/v_urbanizaciones/Escritura_V.pdf)
-[SINAC]: https://sinac.sanidad.gob.es/SinacV2/index.html
